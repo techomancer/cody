@@ -1,0 +1,7 @@
+*.err
+DOS/WATCOM
+.claude
+*.o
+*.obj
+*.exe
+*.map
